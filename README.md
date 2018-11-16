@@ -52,4 +52,4 @@ func main() {
 
 # License
 
-MIT. See [LICENSE](https://github.com/olivere/nullable/blob/master/LICENSE) file.
+MIT. See [LICENSE](https://github.com/olivere/validation/blob/master/LICENSE) file.
